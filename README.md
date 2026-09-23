@@ -3,8 +3,3 @@
 </p>
 
 ---
-
-### 🧭 Projects
-
-- **[AI Certification Roadmap](https://elliotborryn.github.io/ai-certification-roadmap/)**: every current AI certification, mapped by domain and level
-- **[QA Certification Roadmap](https://elliotborryn.github.io/qa-certification-roadmap/)**: the same for software testing
